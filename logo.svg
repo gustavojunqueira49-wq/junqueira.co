@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Junqueira &amp; Co. Contabilidade</title>
+  <defs>
+    <linearGradient id="logoGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff6d8"/>
+      <stop offset="25%" stop-color="#f3d473"/>
+      <stop offset="50%" stop-color="#c9a227"/>
+      <stop offset="75%" stop-color="#f3d473"/>
+      <stop offset="100%" stop-color="#8a6a1e"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <text x="118" y="392" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="164" fill="url(#logoGold)">J</text>
+    <text x="252" y="392" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="224" fill="url(#logoGold)">J</text>
+    <text x="410" y="392" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="294" fill="url(#logoGold)">J</text>
+  </g>
+
+  <text x="360" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="60" letter-spacing="2" fill="url(#logoGold)">JUNQUEIRA &amp; CO.</text>
+  <text x="360" y="520" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="400" font-size="28" letter-spacing="10" fill="url(#logoGold)">CONTABILIDADE</text>
+</svg>
